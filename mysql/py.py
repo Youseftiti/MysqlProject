@@ -18,7 +18,7 @@ mydb=mysql.connector.connect(
 
   host="localhost",
   user="root",
-  password="youseftiti15515219ZXCV",
+  password="**********",
   database="crud_new1"
 
 )
